@@ -69,7 +69,7 @@ The analysis includes:
 - Total Quantity
 - Transactions
 ## Dashboard Preview
-![Mobile Sales Dashboard](Screenshots/Mobile_Sales_Dashboard.png)
+![Mobile Sales Dashboard](./Mobile_Sales_Dashboard.PNG)
 ## Key Insights
 The dashboard enables users to analyze:
 - Overall mobile sales performance
