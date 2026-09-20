@@ -81,6 +81,7 @@ The dashboard enables users to analyze:
 - Transaction volume by mobile model
 - Sales and quantity across different mobile products
 ## Project Structure
+```text
 Mobile-Sales-PowerBI-Analytics/
 │
 ├── README.md
