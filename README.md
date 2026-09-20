@@ -3,7 +3,6 @@
 This project is an interactive **Mobile Sales Analysis Dashboard** developed using **Microsoft Power BI**.
 The dashboard analyzes mobile sales performance across different months, cities, mobile models, payment methods, and customer ratings.
 It provides an interactive view of sales, quantity, transactions, customer ratings, and mobile model performance.
----
 ## Tools & Technologies
 - Microsoft Power BI
 - Power Query
@@ -49,7 +48,6 @@ The dashboard includes filters for:
 - Brand
 - Payment Method
 - Day Name
----
 ## Geographic Analysis
 The dashboard includes a map visualization showing **Total Sales by City**, allowing sales performance to be explored across different locations.
 ## Payment Method Analysis
@@ -92,3 +90,6 @@ Mobile-Sales-PowerBI-Analytics/
 │
 └── Screenshots/
     └── Mobile_Sales_Dashboard.png
+## Author
+Danish Durrani
+Data Analyst | Power BI | SQL | Excel | Python
